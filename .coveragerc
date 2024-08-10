@@ -1,16 +1,10 @@
 [run]
-source =
-    app
-    tests 
+ola
+ot = 
+    si
 
-omit = 
-    env/*pis
-    */tests*ss
-    */__init__.py
-
-[report]
+[r]
 exclude_lines =
-    def tests_oaa
-    if __name__ == '__main__'
-
-[no funciono]
+    yeah
+[no funcino]}
+a
