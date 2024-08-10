@@ -4,13 +4,13 @@ source =
     tests 
 
 omit = 
-    env/*
-    */tests*
+    env/*pis
+    */tests*ss
     */__init__.py
 
 [report]
 exclude_lines =
-    def tests_
+    def tests_oaa
     if __name__ == '__main__'
 
 [no funciono]
